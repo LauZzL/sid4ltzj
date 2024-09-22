@@ -1,3 +1,5 @@
+# 请查看：[https://github.com/LauZzL/leitingzhanji-jshookserver](https://github.com/LauZzL/leitingzhanji-jshookserver)
+
 
 支持 `^Windows 7`、`Linux`、`^MacOS 10.x`
 
